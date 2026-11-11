@@ -1,5 +1,7 @@
 # 📊 Telco Customer Churn Prediction
 
+🚀 **Live Demo:** https://telco-customer-churn-prediction-ttwgpnbjanpzhdfk8fmk5d.streamlit.app/
+
 An end-to-end Machine Learning project that analyzes customer behavior and predicts customer churn using Python, Scikit-learn, and XGBoost, with an interactive Streamlit dashboard.
 
 ## 🚀 Project Overview
